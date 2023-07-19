@@ -8,18 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        小雨信通科技有限公司
       image:
         filename: welcome.jpg
       text: |
         <br>
+	小雨信通秉持爱国创新,以技术为立身之本,以客户需求为宗旨,不断推动产品更新。
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
     content:
-      title: Latest News
+      title: 产品中心
       subtitle:
       text:
       count: 5
@@ -61,7 +58,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./products/" cta_text="更多产品→" %}}
     design:
       columns: '1'
 ---

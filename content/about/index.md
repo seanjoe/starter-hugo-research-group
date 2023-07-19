@@ -5,28 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: about
     content:
-      title: Contact
+      title: 关于小雨
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+	我们的团队是由一群具有创新意识、拥有共同目标,朝气蓬勃的年轻人组成的一个不可分割的整体。将小雨信通发展成具有可持续发展潜力的国际化企业集团是我们为之奋斗的目标。
+      email: 281938324@qq.com
+      phone: 18611573344,18511373432
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
+        street: 北京市昌平区回龙观镇回龙观西大街9号院9号楼18层2116
+        city: 北京
+        region: 大兴区
         postcode: '94305'
-        country: United States
-        country_code: US
+        country: 中国
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '116.337332'
+        longitude: '39.770283'
+      directions: 北京市大兴区高米店南兴创D标2号楼803
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        - '09:00 to 18:00'
+      appointment_url: 'https://xyxtkj.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

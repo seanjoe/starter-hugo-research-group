@@ -1,13 +1,13 @@
 ---
-title: People
+title: 产品中心
 date: 2022-10-24
 
 type: landing
 
 sections:
-  - block: people
+  - block: products
     content:
-      title: Meet the Team
+      title: 产品展示
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
